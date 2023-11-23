@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+utiliza la potencia como limite del contador, luego multiplica el resultado por el numero
+luego el resultado toma un nuevo valor y se vuelve a multiplicar el nuevo valor
+de resultado por el numero, este ciclo se repite hasta que el contador (1) es
+igual a la potencia (3)
  */
 package ejemplos01;
 
