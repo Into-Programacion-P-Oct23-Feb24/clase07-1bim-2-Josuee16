@@ -31,7 +31,7 @@ public class Ejemplo05 {
         numero = entrada.nextInt();
         // 8. potencia <-- 3
         System.out.println("Ingrese la potencia");
-potencia = entrada.nextInt();
+        potencia = entrada.nextInt();
         // 9. resultado <-- 1
         resultado = 1;
 
