@@ -45,6 +45,7 @@ public class Ejemplo08 {
                     numerador, 
                     denominador);
             denominador = denominador + 1;
+            
 
         } while (denominador <= limite);
 
