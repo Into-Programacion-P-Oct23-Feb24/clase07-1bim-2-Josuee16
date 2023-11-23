@@ -52,6 +52,7 @@ public class Ejemplo09 {
 
         // promedio = suma / contador_calificaciones;
         promedio = (double) suma / contador_calificaciones;
+        // el (double) se lo pone para transformar el suma de entero a double.
         cadenaFinal = String.format("%s\nPromedio de calificaciones: %.2f",
                 cadenaFinal,
                 promedio);
